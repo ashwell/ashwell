@@ -2,7 +2,7 @@
 
 I'm Ryan and I actually enjoy JavaScript. I'm currently tinkering with some private projects levearging cool things like, Next.js, Deno, Rollup.js, and Vue.js, in an attempt to branch out from all the React.js I've been doing the last 5 years. I really enjoy doing just about anything from front-end application work down to database and API design. 
 
-Currently looking for my next gig so feel free to shoot me a message on [Twitter](https://twitter.com/__ashwell__), [LinkedIn](https://www.linkedin.com/in/ryanbogle/), or via [js.la/slack](//js.la/slack)
+Feel free to shoot me a message on [Twitter](https://twitter.com/__ashwell__), or the [js.la slack](//js.la/slack)
 
 he/him
 
